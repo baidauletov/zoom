@@ -1,0 +1,69 @@
+.team {
+	padding-top: 80px;	
+	text-align: center;
+}
+
+.team__title {
+	color: #3f4244;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 400;
+	text-transform: capitalize;
+	margin-bottom: 45px;
+}
+
+.team__text {
+	width: 55%;
+	margin: 0 auto;
+	color: #929ba0;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 300;
+	margin-bottom: 90px;
+}
+
+.team__list {
+	display: flex;
+	justify-content: space-around;
+	width: 65%;
+	margin: 0 auto;
+	margin-bottom: 55px;
+}
+
+.members__item {
+	width: 20%;
+}
+
+.members__image {
+	background: #232e3d;
+	height: 200px;
+}
+
+.members__info {
+	padding-top: 30px;
+	padding-bottom: 35px;
+	background-image: linear-gradient(-205.91deg, #6dffc6 1%, #3fd2ce 99%);
+}
+
+.members__name {
+	color: #3f4244;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 500;
+	margin-bottom: 15px;
+}
+
+.members__position {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.members__comments {
+	color: #3f4244;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 400;
+}

@@ -1,0 +1,61 @@
+.clients {
+	padding-top: 120px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+.clients__title {
+	color: #3f4244;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 400;
+	margin-bottom: 35px;
+}
+
+.clients__text {
+	width: 45%;
+	margin: 0 auto;
+	margin-bottom: 80px;
+	color: #929ba0;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 300;
+}
+
+.clients__list {
+	display: flex;
+	justify-content: space-around;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.clients__item {
+	width: 30%;
+	padding: 40px 30px;
+	padding-bottom: 60px;
+	background-image: linear-gradient(-203.27deg, #6dffc6 1%, #3fd2ce 99%);
+}
+
+.alien__name {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.alien__subtitle {
+	color: #243638;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 400;
+	margin-bottom: 30px;
+	text-transform: capitalize;
+}
+
+.alien__info {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 400;
+}

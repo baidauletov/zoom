@@ -1,0 +1,79 @@
+.phone-add {
+	height: 570px;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	padding-top: 85px;
+	padding-bottom: 60px;
+}
+
+.phone-add__phones {
+	position: relative; 
+}
+
+.right-phone {
+	position: relative;
+}
+
+.right-phone__main {
+	position: absolute;
+}
+
+.right-phone__inner {
+	position: absolute;
+	top: 40px;
+	left: 11px;
+}
+
+.left-phone {
+	position: relative;
+	top: -30px;
+	left: -115px;
+}
+
+.left-phone__main {
+	position: absolute;
+}
+
+.left-phone__inner {
+	position: absolute;
+	top: 52px;
+	left: 15px;
+}
+
+.phone-add__info {
+	margin-left: 220px;
+}
+
+.phone-text__title {
+	color: #3f4244;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 400;
+	margin-bottom: 50px;
+}
+
+.phone-text__text {
+	width: 464px;
+	color: #929ba0;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+	margin-bottom: 60px;
+}
+
+.phone-text__button {
+	display: inline-block; 
+	width: 250px;
+	height: 70px;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 70px;
+	background-image: linear-gradient(to bottom, #ff6c54 1%, #ff2b59 99%);
+}

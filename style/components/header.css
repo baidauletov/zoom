@@ -1,0 +1,40 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100px;
+}
+
+.header__logo {
+	height: 24px;
+	margin-left: 20%;
+}
+
+.header__image {
+	height: 24px;
+}
+
+.header__nav {
+	margin-right: 20%;
+}
+
+.menu__item {
+	margin-left: 45px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #3f4244;
+	font-family: Roboto;
+	line-height: 45px;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.menu__item:first-child {
+	display: inline-block;
+	width: 100px;
+	height: 45px;
+	text-align: center;
+	border-radius: 5px;
+	color: #fff;
+background-image: linear-gradient(to bottom, #6dffc6 1%, #3fd2ce 99%);
+}

@@ -1,0 +1,22 @@
+.map {
+	height: 400px;
+	background-color: #232e3d;
+}
+
+.map__block {
+	position: relative;
+	top: 115px;
+	left: 870px;
+	width: 370px;
+	height: 170px;
+	background-image: linear-gradient(-204.97deg, #6dffc6 1%, #3fd2ce 99%);
+	padding: 25px;
+}
+
+.map__text {
+	line-height: 40px;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 500;
+}

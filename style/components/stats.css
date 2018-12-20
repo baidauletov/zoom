@@ -1,0 +1,32 @@
+.stats {
+	display: flex;	
+	justify-content: space-around;
+	align-items: center;
+	height: 340px;
+	background-color: #233537;
+	text-align: center;
+}
+
+.stats__image {
+	margin-bottom: 40px;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.stats__title {
+	margin-bottom: 30px;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.stats__subtitle {
+	color: #10cab7;
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
